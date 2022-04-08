@@ -1,0 +1,17 @@
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\bin\Debug\net6.0\receive.exe
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\bin\Debug\net6.0\receive.deps.json
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\bin\Debug\net6.0\receive.runtimeconfig.json
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\bin\Debug\net6.0\receive.dll
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\bin\Debug\net6.0\receive.pdb
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\receive.csproj.AssemblyReference.cache
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\receive.AssemblyInfoInputs.cache
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\receive.AssemblyInfo.cs
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\receive.csproj.CoreCompileInputs.cache
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\receive.csproj.CopyComplete
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\receive.dll
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\refint\receive.dll
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\receive.pdb
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\receive.genruntimeconfig.cache
+C:\Users\fpontes\source\repos\rabbit-tutorial\receive\obj\Debug\net6.0\ref\receive.dll

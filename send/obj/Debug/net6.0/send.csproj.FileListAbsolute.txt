@@ -1,0 +1,17 @@
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\bin\Debug\net6.0\send.exe
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\bin\Debug\net6.0\send.deps.json
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\bin\Debug\net6.0\send.runtimeconfig.json
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\bin\Debug\net6.0\send.dll
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\bin\Debug\net6.0\send.pdb
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\send.csproj.AssemblyReference.cache
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\send.AssemblyInfoInputs.cache
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\send.AssemblyInfo.cs
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\send.csproj.CoreCompileInputs.cache
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\send.csproj.CopyComplete
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\send.dll
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\refint\send.dll
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\send.pdb
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\send.genruntimeconfig.cache
+C:\Users\fpontes\source\repos\rabbit-tutorial\send\obj\Debug\net6.0\ref\send.dll
